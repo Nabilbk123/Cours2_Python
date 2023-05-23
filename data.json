@@ -1,0 +1,17 @@
+{
+    "nom": "Nabil",
+    "salaire": 120000,
+    "langages": [
+        "Java",
+        "pyhon",
+        "javascript"
+    ],
+    "adresse": {
+        "numero appart": 19,
+        "ville": "Montreal",
+        "telephone": {
+            "mobile": 514514514,
+            "fixe": 514723723
+        }
+    }
+}
